@@ -46,7 +46,7 @@ p{
 input[type="text"]{
    width: 25%;
    height:8vh;
-   font-size:18px;
+   font: size 15px;
    border-radius: 30px;
    border: 1px solid hsl(0, 0%, 59%);
    background-color: #fff;
